@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/solana-foundation-solana-dev-mcp-badge.png)](https://mseep.ai/app/solana-foundation-solana-dev-mcp)
+
 # Solana Model Context Protocol (MCP) Demo
 
 This repository demonstrates a simple implementation of a Model Context Protocol (MCP) server for Solana development.
